@@ -1,0 +1,7 @@
+{
+  "name": "Dr. Youssef Boulaich - Dental Clinic sngl page",
+  "description": "Professional dental website for Dr. Youssef Boulaich with WhatsApp appointment booking, responsive design, and service showcase.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
